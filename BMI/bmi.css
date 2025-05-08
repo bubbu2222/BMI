@@ -1,0 +1,29 @@
+
+        html{
+            --primary:black;
+        }
+
+        label{
+            color: var(--primary);
+        }
+        form{
+            width:450px;
+            height: auto;
+            margin-left: 38%;
+            /* margin-top: 15%; */
+            
+        }
+        h1{
+            margin-top: 15%;
+            font-size: 3rem;
+            font-weight: bolder;
+            margin-left: 5%;
+            
+
+        }
+        button{
+            width: 100px;
+          
+            margin-left: 14%;
+        }
+ 
